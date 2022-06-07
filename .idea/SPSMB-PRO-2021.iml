@@ -11,6 +11,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Lessons/5.Lesson/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lessons/7.Lesson/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lessons/8.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/21.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/22.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/23.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/24.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/25.Lesson/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lessons/26.Lesson/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
